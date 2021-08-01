@@ -12,7 +12,7 @@ This menu aims to get some insights regarding insider trading, and the usage of 
 #### LATEST
 
 * [lcb](#lcb)
-  * latest cluster boys
+  * latest cluster buys
 * [lpsb](#lpsb)
   * latest penny stock buys
 * [lit](#lit)
