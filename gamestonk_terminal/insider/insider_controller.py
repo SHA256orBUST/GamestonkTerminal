@@ -77,7 +77,7 @@ class InsiderController:
         print("   filter        filter insiders based on preset")
         print("")
         print("Latest:")
-        print("   lcb           latest cluster boys")
+        print("   lcb           latest cluster buys")
         print("   lpsb          latest penny stock buys")
         print("   lit           latest insider trading (all filings)")
         print("   lip           latest insider purchases")
